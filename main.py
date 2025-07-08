@@ -13,11 +13,11 @@ def print_banner():
 ╔══════════════════════════════════════════════════════════════╗
 ║                    YEASTAR PBX LOG ANALYZER                  ║
 ║                                                              ║
-║  • Parse PBX log files (pbxlog.0)                          ║
-║  • Extract call records, SIP messages, registrations       ║
-║  • SQLite database storage and analysis                    ║
-║  • Generate comprehensive HTML reports                     ║
-║  • Search and filter call data                            ║
+║  • Parse PBX log files (pbxlog.0)                            ║
+║  • Extract call records, SIP messages, registrations         ║
+║  • SQLite database storage and analysis                      ║
+║  • Generate comprehensive HTML reports                       ║
+║  • Search and filter call data                               ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
     """)
